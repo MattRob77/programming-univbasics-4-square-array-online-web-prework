@@ -1,4 +1,5 @@
-def square_array(array)
+def square_array(numbers) 
+  
   
   
 end 
